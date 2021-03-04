@@ -1,0 +1,8 @@
+.classpath
+.project
+output
+notes
+bin/*
+.settings/*
+Test
+
