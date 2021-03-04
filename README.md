@@ -7,8 +7,10 @@ The GUI jar file should run on it's own, make sure you have java 8 runtime insta
 
 The GUI has 4 buttons to set paths, three to the csv files and one to a output text file. The paths can also be hard coded in the GUI class. 
 The button "Get airports and runways of a country" will write all the airports and corresponding runways a country has to the chosen text file. 
-The country can be chosen in the input field either with the countrycode or countryname. Autocorrect is not imlemented so make sure it is correct.
-The button "Get countries with the most airports in the world" will display the countries with the most airports in the bottom text field of the GUI.
+Make sure an existing path to a text file is chosen or nothing will happen, the name shouldn't matter.
+The country can be chosen in the input field either with the countrycode or countryname. 
+Autocorrect is not imlemented so make sure it is correct. The button "Get countries with the most airports in the world" will display the countries with the most 
+airports in the bottom text field of the GUI.
 
 Optimizations:
 
